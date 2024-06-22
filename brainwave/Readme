@@ -1,0 +1,61 @@
+# Mini Drone for Cattle Farming
+
+## Overview
+This project focuses on developing a mini drone tailored for cattle farming applications. The drone is designed to assist farmers in monitoring and managing their cattle more efficiently through aerial surveillance and data collection.
+
+## Features
+- **Real-time Monitoring**: Observe cattle movement and behavior in real-time.
+- **Automated Health Checks**: Use integrated sensors to perform health and wellness checks on the cattle.
+- **GPS Tracking**: Locate lost or stray cattle using GPS-enabled tracking.
+- **Data Analysis**: Collect and analyze data to improve pasture management and resource allocation.
+
+## Technologies Used
+- **Hardware and Firmware**: Drone components and firmware for flight control.
+- **GPS and Sensors**: Integration of GPS and various sensors for tracking and monitoring.
+- **Machine Learning**: Algorithms for behavior analysis and anomaly detection.
+- **IoT**: Real-time data transmission and monitoring using IoT technologies.
+
+## Installation and Setup
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/yourusername/mini-drone-cattle-farming.git
+    cd mini-drone-cattle-farming
+    ```
+
+2. **Hardware Setup**
+    - Assemble the drone hardware as per the provided instructions.
+    - Ensure all sensors and GPS modules are correctly integrated.
+
+3. **Firmware Installation**
+    - Flash the drone firmware onto the flight controller.
+    - Configure the flight parameters using the provided configuration files.
+
+4. **Software Installation**
+    - Install the required software dependencies.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. **Run the Application**
+    - Start the drone control application.
+    ```bash
+    python main.py
+    ```
+
+## Usage
+- **Monitoring**: Use the drone's real-time video feed to monitor cattle.
+- **Health Checks**: Schedule automated health checks using the integrated sensors.
+- **Tracking**: Utilize the GPS module to track the location of cattle.
+- **Data Analysis**: Analyze collected data for insights into cattle behavior and pasture management.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or feedback, please contact:
+- Name: Sanith Wish
+- Email: sanithkonra12@gmail.com
+
